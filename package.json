@@ -1,0 +1,23 @@
+{
+  "name": "dino-eater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sheeppcoder/Dino-eater.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sheeppcoder/Dino-eater/issues"
+  },
+  "homepage": "https://github.com/Sheeppcoder/Dino-eater#readme",
+  "description": "",
+  "dependencies": {
+    "phaser": "^3.88.2"
+  }
+}
