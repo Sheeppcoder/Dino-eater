@@ -1,0 +1,1 @@
+import Phaser from "phaser";// dire que phaser est utilisé
